@@ -12,6 +12,9 @@ A mobile application for bringing digital training solution in the luxury retail
 **Roles**
 
 1. iOS development
+	* UI/UX integration
+	* API integration
 2. Back-end development
 	* building Web APIs for mobile apps
-	* Python + Django Rest Framework
+	* Python + Django Rest Framework Technology
+	* Automated Unit Testing + TDD
