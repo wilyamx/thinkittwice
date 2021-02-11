@@ -2,6 +2,8 @@
 
 A mobile application for bringing digital training solution in the luxury retail industry. [Official site](https://youralbert.com/)
 
+NOTES: Theses are **sample codes for Web APIs.**
+
 **Platforms**
 
 1. iOS
@@ -13,5 +15,5 @@ A mobile application for bringing digital training solution in the luxury retail
 
 1. iOS development
 2. Back-end development
-	* creating APIs for mobile apps
+	* building Web APIs for mobile apps
 	* Python + Django Rest Framework
