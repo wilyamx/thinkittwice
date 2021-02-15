@@ -2,6 +2,11 @@
 
 A mobile application for bringing digital training solution in the luxury retail industry. [Official site](https://youralbert.com/)
 
+**Featured Endpoints**
+
+1. **GET** `/api/v2/feeds/?oldest_feed_id=0&user_group_id=0&included=more_details,model_type,count`
+2. **GET** `/api/v1/feeds/?oldest_feed_id=0&user_group_id=0&included=more_details,model_type,count`
+
 **Platforms**
 
 1. iOS
