@@ -1,6 +1,9 @@
 # Think It Twice: Sample Web APIs
 
-A mobile application for bringing digital training solution in the luxury retail industry. [Official site](https://youralbert.com/)
+A mobile application for bringing digital training solution in the luxury retail industry.
+
+* [Official site](https://youralbert.com/)
+* [iOS App](https://apps.apple.com/ph/app/albert-daily-feed/id1193114829)
 
 **Featured Endpoints**
 
