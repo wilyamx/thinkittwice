@@ -59,20 +59,3 @@ class FeedViewSet(ReadOnlyBaseModelViewSet):
                     'include': self.request.query_params['include']
                 })
         return context
-
-    @active_user_required
-    @exceptions_catched
-    @list_route(
-        methods=['get'],
-        schema=ManualSchema(
-            fields=LEGACY_SCHEMA_FIELDS,
-            description='Legacy feeds list'
-        ),
-    )
-    def legacy(self, request, *args, **kwargs):
-        """
-        Legacy feeds list
-        """
-        qs = self.filter_queryset(self.get_queryset())
-        serializer = self.get_serializer(qs[:20], many=True)
-        return Response({'success': True, 'feeds': serializer.data})
