@@ -1,0 +1,30 @@
+[
+  {
+    "fields": {
+      "text": "brand"
+    },
+    "model": "PoleLuxe.tag",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "text": "market"
+    },
+    "model": "PoleLuxe.tag",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "text": "news"
+    },
+    "model": "PoleLuxe.tag",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "text": "training"
+    },
+    "model": "PoleLuxe.tag",
+    "pk": 4
+  }
+]

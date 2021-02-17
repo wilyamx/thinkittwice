@@ -1,0 +1,44 @@
+[
+  {
+    "fields": {
+      "name": "Simplified Chinese"
+    },
+    "model": "PoleLuxe.applanguage",
+    "pk": "CN"
+  },
+  {
+    "fields": {
+      "name": "English"
+    },
+    "model": "PoleLuxe.applanguage",
+    "pk": "EN"
+  },
+  {
+    "fields": {
+      "name": "French"
+    },
+    "model": "PoleLuxe.applanguage",
+    "pk": "FR"
+  },
+  {
+    "fields": {
+      "name": "Japanese"
+    },
+    "model": "PoleLuxe.applanguage",
+    "pk": "JP"
+  },
+  {
+    "fields": {
+      "name": "Korean"
+    },
+    "model": "PoleLuxe.applanguage",
+    "pk": "KR"
+  },
+  {
+    "fields": {
+      "name": "Traditional Chinese"
+    },
+    "model": "PoleLuxe.applanguage",
+    "pk": "TC"
+  }
+]
